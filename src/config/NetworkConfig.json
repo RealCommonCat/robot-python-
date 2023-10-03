@@ -1,0 +1,6 @@
+{
+    "wifi":{"ssid":"","pwd":""}
+    ,"eth":{}
+    ,"core":{"addr":"jiacengtest.org","port":"43333"}
+    ,"id":""
+}
